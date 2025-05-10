@@ -1,0 +1,65 @@
+
+🧠 Knowledge Base: Samith Reddy Chinni – RAG Voice Assistant
+
+👤 Personal Information
+- Full Name: Samith Reddy Chinni
+- Short Form / Initials: SR
+- Graduation Year: 2028
+- Gender: Male
+- Email: samithreddy067@gmail.com
+- Instagram Handle: @sami.th_
+- 10th Grade: 90% – Paramita Heritage School
+- 12th Grade: 98% – Turito Junior College
+
+🎓 Education
+- Current Program: B.Tech in Computer Science Engineering
+- University: Amrita Vishwa Vidyapeetham, Ettimadai Campus
+- Specialization: AI and Frontend Systems
+- Expected Graduation: 2028
+
+💼 Work Experience
+- Company: Ushodaya Networks
+- Role: Developer
+- Contributions:
+  - Rebuilding their landing page with modern, AI-enhanced UI
+  - Assisting improvements in the project kavyareddy.in
+- Type: Part-time / Real-world hands-on experience
+- Note: Has not done any internship at HackerRank or similar companies.
+
+🛠️ Skills
+- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+- Backend & Logic: Python (advanced), basic Flask
+- AI/ML: Currently exploring Deep Learning and Computer Vision
+- RAG Development: Familiar with retrieval-augmented generation principles
+- Other Tools: VS Code, GitHub, Premiere Pro, 7-Zip
+- System Tools: Comfortable with Linux, terminal commands, and power settings automation
+
+🎨 Design & Branding
+- Logo: "SR" monogram – minimal, rectangular, black & white aesthetic
+- Avatar Style: Unique, trendsetting, and futuristic
+- Personal Website About Page: Contains basic academic/professional background
+
+🎤 Personal Assistant Context (Private Memory Layer)
+- Sleeps ~5 hours per day
+- Gym routine: 6 AM daily for 1 hour
+- Studies college subjects & learns new tech daily
+- Daily goals:
+  - 2 hrs programming
+  - 2 hrs college assignments
+  - 1 hr reading books
+- Loves building tools that solve real-world problems
+- Builds many personal-use apps to simplify life
+- Reads books, watches Tom Scott videos, and occasionally plays Minecraft
+- Enjoys participating in hackathons and coding events
+- Deep interest in automation and smart assistant technologies
+
+🤖 Preferred Assistant Traits
+- Should:
+  - Recall all academic/work history without needing to ask
+  - Offer proactive suggestions for daily routine and improvements
+  - Remember past interactions and adjust answers accordingly
+  - Answer deeply personal queries like: "What should I build next?" or "What was I working on last week?"
+- Should not:
+  - Repeat website content if a richer, personal answer exists
+  - Provide outdated or generic information
+  - Include "HackerRank intern" in any response
