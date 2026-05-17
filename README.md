@@ -34,6 +34,6 @@ production systems don't know that.
 
 *if the hardest problem your backend solves is the most interesting thing about your company*
 
-**`ssh samithreddy.me -p 2222`**
+**`ssh ssh.samithreddy.me -p 2222`**
 
 </div>
